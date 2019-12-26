@@ -1,16 +1,10 @@
 # Angular 6+ compatible google autocomplete
 
-[![codecov](https://codecov.io/gh/tanoy009/ng4-geoautocomplete/branch/master/graph/badge.svg)](https://codecov.io/gh/tanoy009/ng4-geoautocomplete)
+[![npm version](https://badge.fury.io/js/ngx-geoautocomplete-v2.svg)](https://badge.fury.io/js/ngx-geoautocomplete-v2)
 
-[![npm version](https://badge.fury.io/js/ng4-geoautocomplete.svg)](http://badge.fury.io/js/ng4-geoautocomplete)
+[![GitHub issues](https://img.shields.io/github/issues/techaks/ngx-geoautocomplete-v2)](https://github.com/techaks/ngx-geoautocomplete-v2/issues)
 
-[![devDependency Status](https://david-dm.org/tanoy009/ng4-geoautocomplete/dev-status.svg)](https://david-dm.org/tanoy009/ng4-geoautocomplete?type=dev)
-
-[![GitHub issues](https://img.shields.io/github/issues/tanoy009/ng4-geoautocomplete.svg)](https://github.com/tanoy009/ng4-geoautocomplete/issues)
-
-[![GitHub stars](https://img.shields.io/github/stars/tanoy009/ng4-geoautocomplete.svg)](https://github.com/tanoy009/ng4-geoautocomplete/stargazers)
-
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/tanoy009/ng4-geoautocomplete/master/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/techaks/ngx-geoautocomplete-v2/master/LICENSE)
 
 ## Demo (original version ng4)
 
