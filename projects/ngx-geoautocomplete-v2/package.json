@@ -1,8 +1,31 @@
 {
   "name": "ngx-geoautocomplete-v2",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "peerDependencies": {
     "@angular/common": "^8.2.14",
     "@angular/core": "^8.2.14"
-  }
+  },
+  "description": "Angular Library for geo autocomplete",
+  "keywords": [
+    "ngx",
+    "angular",
+    "geo autocomplete",
+    "angular geo autocomplete",
+    "awesome geo autocomplete",
+    "google map",
+    "google geo location",
+    "google map search",
+    "ngx-geoautocomplete",
+    "ngx-geoautocomplete-v2",
+    "angular Library for google map",
+    "angular Library for  geo autocomplete"
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/techaks/ngx-geoautocomplete-v2",
+  "author": {
+    "name": "Akash Gupta",
+    "url": "https://findakash.com",
+    "email": "akash@adias.tech"
+  },
+  "homepage": "https://stackblitz.com/edit/ngx-geoautocomplete-v2"
 }
