@@ -17,7 +17,15 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "superhero-library": [
+        "dist/superhero-library"
+      ],
+      "superhero-library/*": [
+        "dist/superhero-library/*"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
